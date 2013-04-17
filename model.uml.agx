@@ -1,4 +1,4 @@
 #---AGX Properties---
-#Wed Apr 17 08:41:59 CEST 2013
-profiles=cornice;pyegg
-target=/home/christoph/Code/AGX3/agx.dev/cornice1
+#Wed Apr 17 09:44:36 CEST 2013
+profiles=cornice;pyegg;pyramid
+
